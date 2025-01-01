@@ -1,1 +1,1 @@
-# loan_approval
+# loan approval prediction
